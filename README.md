@@ -124,7 +124,7 @@
 
 ## 📈 Contribution Graph
 
-div align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4N2&bg_color=1a1b27&color=6fa4fc&line=6a5acd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </div>
 <picture>
