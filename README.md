@@ -128,13 +128,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4N2&bg_color=1a1b27&color=6fa4fc&line=6a5acd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph">
 </div>
 
-<div align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
 </picture>
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/T4N2/T4N2/output/snake.svg" alt="Snake animation" width="100%">
