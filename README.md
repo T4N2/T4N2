@@ -97,8 +97,8 @@
 ## 🎧 Currently Vibing To
 
 <div align="center">
-  <a href="https://open.spotify.com/user/214nrhskpnosc37nhykxvlxaq">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214nrhskpnosc37nhykxvlxaq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+   <a href="https://open.spotify.com/user/214nrhskpnosc37nhykxvlxaq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=214nrhskpnosc37nhykxvlxaq&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -129,9 +129,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
 </picture>
 
 <img src="https://raw.githubusercontent.com/T4N2/T4N2/output/snake.svg" alt="Snake animation" />
