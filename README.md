@@ -44,29 +44,54 @@ const about = {
   currentFocus: "Building AI-powered applications",
   funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
+
 <!-- Tech Stack -->
-⚡ Tech Stack
-Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,py,django,aws,docker,kubernetes,graphql,tailwind,sass,git,github,postgres,mongodb,vscode,figma" /> </p>
-Development Practices
-<p align="center"> <img src="https://img.shields.io/badge/-Agile%20Development-7A3EFF?style=flat&logo=agile&logoColor=white"/> <img src="https://img.shields.io/badge/-CI/CD-7A3EFF?style=flat&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/-TDD-7A3EFF?style=flat&logo=testcafe&logoColor=white"/> <img src="https://img.shields.io/badge/-Open%20Source-7A3EFF?style=flat&logo=opensourceinitiative&logoColor=white"/> </p>
+### ⚡ Tech Stack
+
+#### Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,py,django,aws,docker,kubernetes,graphql,tailwind,sass,git,github,postgres,mongodb,vscode,figma" />
+</p>
+
+#### Development Practices
+<p align="center">
+  <img src="https://img.shields.io/badge/-Agile%20Development-7A3EFF?style=flat&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CI/CD-7A3EFF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TDD-7A3EFF?style=flat&logo=testcafe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Open%20Source-7A3EFF?style=flat&logo=opensourceinitiative&logoColor=white"/>
+</p>
+
 <!-- GitHub Stats -->
-📈 GitHub Analytics
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=00000000&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=00000000&hide_border=true" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=00000000&hide_border=true" /> </div>
+### 📈 GitHub Analytics
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=00000000&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=00000000&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+</div>
+
 <!-- Recent Activity -->
-🔥 Recent Activity
+### 🔥 Recent Activity
 <!--START_SECTION:activity-->
-🎉 Merged PR #29 in repository/project
-
-🚀 Published new article Building Modern Web Apps with Next.js 14
-
-💻 Fixed mobile responsiveness in dashboard component
-
-🛠️ Started new open source project - AI Chat Interface
-
-📦 Released v1.2.0 of Project Name
-
+- 🎉 Merged PR #29 in repository/project
+- 🚀 Published new article "Building Modern Web Apps with Next.js 14"
+- 💻 Fixed mobile responsiveness in dashboard component
+- 🛠️ Started new open source project - AI Chat Interface
+- 📦 Released v1.2.0 of Project Name
 <!--END_SECTION:activity-->
+
 <!-- Contact -->
-📫 Let's Connect
-<p align="center"> <a href="mailto:youremail@domain.com"> <img src="https://img.shields.io/badge/-Email-7A3EFF?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/-Portfolio-7A3EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="https://calendly.com/yourprofile"> <img src="https://img.shields.io/badge/-Book%20a%20Call-7A3EFF?style=for-the-badge&logo=googlemeet&logoColor=white"/> </a> </p>
+### 📫 Let's Connect
+<p align="center">
+  <a href="mailto:youremail@domain.com">
+    <img src="https://img.shields.io/badge/-Email-7A3EFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-7A3EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://calendly.com/yourprofile">
+    <img src="https://img.shields.io/badge/-Book%20a%20Call-7A3EFF?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+  </a>
+</p>
