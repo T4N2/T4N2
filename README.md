@@ -1,126 +1,145 @@
-<h3 align="left">Hi 👋! My name is Afiat Lintang Winasis and I'm a Student, from Duta Bangsa University</h3>
-
-###
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN2YXJlcGdhZ3JscGR1OW5ocXAxczZ2dXF1YzBrYzE0MjV2M2IxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/esNcJ0d8A5MfVwIjwu/giphy.gif"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Afiat+Lintang;Web+%26+Mobile+Developer;UI%2FUX+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-###
-
-<br clear="both">
-
-<h4 align="center">I'm passionate about creating elegant solutions to complex problems. With a background in computer science and several years of experience in software development, I specialize in building robust web applications that deliver exceptional user experiences.</h4>
-
-###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/T4N2/count.svg?"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzN2YXJlcGdhZ3JscGR1OW5ocXAxczZ2dXF1YzBrYzE0MjV2M2IxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/esNcJ0d8A5MfVwIjwu/giphy.gif" width="250" height="250" style="border-radius: 50%; object-fit: cover; border: 3px solid #6A5ACD" />
 </div>
 
-###
+<h3 align="center">Computer Science Student @ Duta Bangsa University</h3>
+
+<p align="center">
+  <a href="https://github.com/T4N2?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/T4N2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/T4N2?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/T4N2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=T4N2&style=for-the-badge&color=6A5ACD" alt="Profile Views" />
+</p>
+
+## 📋 About Me
+
+> I'm passionate about creating elegant solutions to complex problems. With a background in computer science and experience in software development, I specialize in building robust web and mobile applications that deliver exceptional user experiences.
+
+- 🎓 Currently studying Computer Science at Duta Bangsa University
+- 💻 Working on improving my full-stack development skills
+- 🌱 Learning more about Cloud Architecture and DevOps
+- 🔭 Always exploring new technologies and frameworks
+- 💬 Ask me about web development, Flutter, and UI design
+- ⚡ Fun fact: I enjoy photography and digital art in my free time
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T4N2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T4N2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=T4N2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4N2&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4N2&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1teWlzM2w1bHU5dzY4Zm0yczNueGFzaHhqc25qNzR4eDRwaXh6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc11UljvpPKWeNva/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<br clear="both">
+## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://open.spotify.com/user/214nrhskpnosc37nhykxvlxaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=214nrhskpnosc37nhykxvlxaq&count=5" alt="Spotify recently played"  />
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/T4N2/project-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T4N2&repo=project-name-1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/T4N2/project-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T4N2&repo=project-name-2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
-###
+## 🎧 Currently Vibing To
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <a href="https://open.spotify.com/user/214nrhskpnosc37nhykxvlxaq">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=214nrhskpnosc37nhykxvlxaq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+  </a>
+</div>
 
-###
+## 🔗 Connect With Me
 
-<img src="https://raw.githubusercontent.com/T4N2/T4N2/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://discord.com/users/your-discord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/yourwhatsappnumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://facebook.com/your-facebook" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+</div>
 
-###
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4N2&bg_color=1a1b27&color=6fa4fc&line=6a5acd&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/T4N2/T4N2/output/snake.svg" alt="Snake animation" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" width="100%">
+</div>
