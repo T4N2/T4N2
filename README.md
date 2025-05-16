@@ -1,97 +1,78 @@
-<!-- Header -->
+<h3 align="left">Hi 👋! My name is Afiat Lintang Winasis and I'm a Student, from Duta Bangsa University</h3>
+
+###
+
+<br clear="both">
+
+<h4 align="center">I'm passionate about creating elegant solutions to complex problems. With a background in computer science and several years of experience in software development, I specialize in building robust web applications that deliver exceptional user experiences.</h4>
+
+###
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=7A3EFF&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer+%26+Content+Creator" alt="Typing SVG" />
-  
-  ![Banner](https://place-holder.com/1280x400/7A3EFF/FFFFFF?text=Welcome+to+My+Profile&font-size=40)
+  <img src="https://profile-counter.glitch.me/T4N2/count.svg?"  />
 </div>
 
-<!-- Badges -->
+###
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=7A3EFF&style=flat" alt="Profile views" /> 
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-@yourhandle-7A3EFF?style=flat&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-7A3EFF?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social&color=7A3EFF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=T4N2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T4N2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-<!-- About Section -->
-### 🚀 About Me
-```javascript
-const about = {
-  pronouns: "he/him",
-  code: ["JavaScript", "Python", "Java", "Go"],
-  askMeAbout: ["web dev", "tech", "ai/ml", "startups"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue"],
-      css: ["Tailwind", "Sass", "Bootstrap"]
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-      python: ["Django", "FastAPI"],
-      java: ["Spring Boot"]
-    },
-    databases: ["MongoDB", "PostgreSQL", "Redis"],
-    devOps: ["AWS", "Docker", "Kubernetes", "Terraform"],
-    misc: ["Firebase", "GraphQL", "Socket.IO"]
-  },
-  architecture: ["Serverless Architecture", "Microservices", "SPA", "MVP"],
-  currentFocus: "Building AI-powered applications",
-  funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<!-- Tech Stack -->
-### ⚡ Tech Stack
-
-#### Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,py,django,aws,docker,kubernetes,graphql,tailwind,sass,git,github,postgres,mongodb,vscode,figma" />
-</p>
-
-#### Development Practices
-<p align="center">
-  <img src="https://img.shields.io/badge/-Agile%20Development-7A3EFF?style=flat&logo=agile&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CI/CD-7A3EFF?style=flat&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TDD-7A3EFF?style=flat&logo=testcafe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Open%20Source-7A3EFF?style=flat&logo=opensourceinitiative&logoColor=white"/>
-</p>
-
-<!-- GitHub Stats -->
-### 📈 GitHub Analytics
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=00000000&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=00000000&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=00000000&hide_border=true" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<!-- Recent Activity -->
-### 🔥 Recent Activity
-<!--START_SECTION:activity-->
-- 🎉 Merged PR #29 in repository/project
-- 🚀 Published new article "Building Modern Web Apps with Next.js 14"
-- 💻 Fixed mobile responsiveness in dashboard component
-- 🛠️ Started new open source project - AI Chat Interface
-- 📦 Released v1.2.0 of Project Name
-<!--END_SECTION:activity-->
+###
 
-<!-- Contact -->
-### 📫 Let's Connect
-<p align="center">
-  <a href="mailto:youremail@domain.com">
-    <img src="https://img.shields.io/badge/-Email-7A3EFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm1teWlzM2w1bHU5dzY4Zm0yczNueGFzaHhqc25qNzR4eDRwaXh6dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ohc11UljvpPKWeNva/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="35" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="35" alt="facebook logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/214nrhskpnosc37nhykxvlxaq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=214nrhskpnosc37nhykxvlxaq&count=5" alt="Spotify recently played"  />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-7A3EFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://calendly.com/yourprofile">
-    <img src="https://img.shields.io/badge/-Book%20a%20Call-7A3EFF?style=for-the-badge&logo=googlemeet&logoColor=white"/>
-  </a>
-</p>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T4N2/T4N2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/T4N2/T4N2/output/snake.svg" alt="Snake animation" />
+
+###
